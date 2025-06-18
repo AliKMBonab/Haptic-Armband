@@ -34,14 +34,6 @@ This file contains Unity- and Oculus-derived features, including positional, rot
 
 ---
 
-## 📜 License
-
-All files in this repository are licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.  
-You are free to use, share, and adapt the materials for non-commercial purposes, provided proper attribution is given.  
-See [LICENSE](LICENSE) for more details.
-
----
-
 ## 📬 Contact
 
 For access to raw data or synergy analysis files, or for any related questions, please contact:  
